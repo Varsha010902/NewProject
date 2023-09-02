@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Main
+public class calDiff
 {
 	public static void main(String[] args) {
 	    int len=6;
