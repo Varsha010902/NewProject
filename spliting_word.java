@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class SplitingWord
 {
 	public static void main(String[] args) {
 
