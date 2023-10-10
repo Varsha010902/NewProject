@@ -1,5 +1,5 @@
 import java.util.HashMap;
-public class Main
+public class HashMapSyntax
 {
 	public static void main(String[] args) {
 		HashMap<Integer,String> map=new HashMap<>();
